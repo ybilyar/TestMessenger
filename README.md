@@ -25,10 +25,6 @@
 
 ---
 
-## FAQ
-
-- **How do I do *specifically* so and so?**
-    - No problem! Just do this.
 
 ---
 
@@ -36,9 +32,9 @@
 
 Reach out to me at one of the following places!
 
-- Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Instagram at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
-- Insert more social links here.
+- Website at <a " target="_blank">``</a>
+- Instagram at <a href="https://www.instagram.com/y.bilyar/" target="_blank">`@instagram.com/y.bilyar/`</a>
+
 
 ---
 
