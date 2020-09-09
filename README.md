@@ -1,4 +1,6 @@
-# TestMessenger
+# TestMessenger 
+
+*Messenger is made for communication between other users from the test and photo, to start using you need to log in with a Google account or register via e-mail and create an account to start communicating with other users, you need to find them in search and send a request after the user will accept the request, you can send text and photos. I would emphasize three main points: drawing the interface through code, integrating Firebase services, and implementing real-time chat. 
 
 
 
