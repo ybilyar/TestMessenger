@@ -24,7 +24,7 @@
 
 
 ---
-![alt text](https://github.com/ybilyar/TestMessenger/blob/master/Apple%20iPhone%2011%20Pro(ChatTest).png) width="350" 
+![alt text](https://github.com/ybilyar/TestMessenger/blob/master/Apple%20iPhone%2011%20Pro(ChatTest).png) width="150" 
 ---
 
 ## Support
