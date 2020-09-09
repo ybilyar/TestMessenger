@@ -3,25 +3,20 @@
 
 
 
-# Repository Title Goes Here
+# I work in the project with
 
-> Subtitle or Short Description Goes Here
 
-> ideally one sentence
 
-> include terms/tags that can be searched
 
-**Badges will go here**
-
-- build status
-- issues (waffle.io maybe)
-- devDependencies
-- npm package
-- coverage
-- slack
-- downloads
-- gitter chat
-- license
+- Email/Google Authentication
+- Firebase Firestore and Storage
+- Real-time chat with image/text messages
+- Global users search
+- User profile setup
+- NSLayoutAnchor and StackViews
+- UICollectionView Compositional Layout
+- UICollectionView Diffable Datasource
+- MessageKit
 - etc.
 
 
@@ -42,7 +37,7 @@
 Reach out to me at one of the following places!
 
 - Website at <a href="http://fvcproductions.com" target="_blank">`fvcproductions.com`</a>
-- Twitter at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
+- Instagram at <a href="http://twitter.com/fvcproductions" target="_blank">`@fvcproductions`</a>
 - Insert more social links here.
 
 ---
@@ -54,4 +49,4 @@ Reach out to me at one of the following places!
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
 
 - **[MIT license](http://opensource.org/licenses/mit-license.php)**
-- Copyright 2015 © <a href="http://fvcproductions.com" target="_blank">FVCproductions</a>.
+
