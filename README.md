@@ -25,6 +25,7 @@
 
 ---
 ![alt text](https://github.com/ybilyar/TestMessenger/blob/master/Apple%20iPhone%2011%20Pro(ChatTest).png =50x)
+<img src="https://github.com/ybilyar/TestMessenger/blob/master/Apple%20iPhone%2011%20Pro(ChatTest).png" alt="drawing" width="100"/>
 ---
 
 ## Support
