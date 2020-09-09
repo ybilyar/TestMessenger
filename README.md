@@ -33,7 +33,7 @@
 Reach out to me at one of the following places!
 
 - Website at <a " target="_blank">``</a>
-- Instagram at <a href="https://www.instagram.com/y.bilyar/" target="_blank">`@instagram.com/y.bilyar/`</a>
+- Instagram at <a href="https://www.instagram.com/y.bilyar/" target="_blank">`@y.bilyar/`</a>
 
 
 ---
